@@ -151,5 +151,5 @@ $ sudo firewall-cmd --add-forward-port=port=7071:proto=tcp:toport=9071:toaddr=10
 
 Replace `--add` with `–-remove`
 
-
+[https://youtu.be/7lAdXHMfVjs](https://youtu.be/7lAdXHMfVjs)
 
