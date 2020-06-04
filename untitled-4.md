@@ -61,7 +61,7 @@ docker-machine env defaultexport DOCKER_TLS_VERIFY="1"export DOCKER_HOST="tcp://
 Usually this prints out the command to set all the env variables set for MacOS; which is the following:
 
 ```text
-eval $(docker-machine env default)
+
 ```
 
 Finally, you should be able to start a **Docker container** with a pre-defined **Docker image** to check whether everything works as expected:
